@@ -1,18 +1,9 @@
-## Getting Started
+Этот проект содержит реализацию нескольких алгоритмов на языке Java с использованием рекурсии и бинарного поиска. Это часть моего обучения на Java. Содержимое кода:
+1.Сумма всех элементов массива
+2.Нахождение максимального элемента в массиве
+3.Бинарный поиск элемента в массиве
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This project contains the implementation of several algorithms in Java using recursion and binary search. this is part of my Java training. Code content:
+1.The sum of all array elements
+2.Finding the maximum element in an array
+3.Binary search for an element in an array
